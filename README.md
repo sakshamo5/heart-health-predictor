@@ -1,1 +1,1 @@
-# heart-health-predictor
+# Spam mail classifier
